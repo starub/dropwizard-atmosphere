@@ -15,7 +15,7 @@ To test the example run the following commands.
 *   To run the server run.
         
         use ./run 
-        or 
+        or manually
         java -jar target/dropwizard-atmosphere-1.0.0.jar server config.yml
 
 *   Adress for your websocket client
