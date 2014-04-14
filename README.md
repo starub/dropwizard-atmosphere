@@ -1,3 +1,5 @@
+Dropwizard 0.7.0 with atmosphere 2.1.2 integration
+
 ## Introduction
 
 This is just a simple dropwizard project, which shows how to intergrate the atmosphere websocket framework
