@@ -1,1 +1,1 @@
-java -jar target/vicust-*.jar server config.yml
+java -jar target/dropwizard-atmosphere-1.0.0.jar server config.yml
