@@ -15,6 +15,7 @@ To test the example application run the following commands.
         java -jar target/dropwizard-atmosphere-1.0.0.jar
 
 *   Adress for your websocket client
+
         ws://localhost:8080/socket
 
 
