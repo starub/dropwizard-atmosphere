@@ -2,7 +2,6 @@ server:
   applicationConnectors:
     - type: http
       port: 8080
-      bindHost: 127.0.0.1
       headerCacheSize: 512 bytes
       outputBufferSize: 32KiB
       maxRequestHeaderSize: 8KiB
