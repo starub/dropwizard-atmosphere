@@ -1,4 +1,4 @@
-## Dropwizard 0.7.0 with atmosphere 2.1.2
+## Dropwizard 0.7.0 with atmosphere 2.1.2 example
 
 ## Overview
 
