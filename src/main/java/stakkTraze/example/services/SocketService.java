@@ -16,7 +16,7 @@ import com.google.common.collect.ImmutableMap;
 public class SocketService extends Application<TestConfiguration> {
 
     public static void main(final String[] args) throws Exception {
-        new SocketService().run(args);
+        new SocketService().run(new String[] { "server", "config.yml" });
     }
 
     @Override
