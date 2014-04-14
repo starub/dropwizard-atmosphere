@@ -1,12 +1,12 @@
-## Dropwizard 0.7.0 with atmosphere 2.1.2 integration
+## Dropwizard 0.7.0 with atmosphere 2.1.2
 
-## Introduction
+## Overview
 
-This is just a simple dropwizard project, which shows how to intergrate the atmosphere websocket framework
+This is just a simple dropwizard project, which shows how to intergrate the atmosphere websocket framework in dropwizard
 
 # How to run the app
 
-To test the example application run the following commands.
+To test the example run the following commands.
 
 *   To package the example run.
 
